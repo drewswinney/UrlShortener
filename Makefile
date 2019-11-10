@@ -8,7 +8,7 @@
 setup:
 	brew install yarn
 	yarn --cwd client install
-	sh dotnet-install.sh
+	sh dotnet-install.sh -version 2.2.206
 
 cleanup:	
 	dotnet clean UrlShortener
