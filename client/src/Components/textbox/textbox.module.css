@@ -1,0 +1,44 @@
+.textBox {
+    border: .5px solid #D3D3D3;
+    border-radius: 4px;
+    background: #FFFFFF;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #000000;
+    padding: 5px 0px 5px 35px;
+    height: 38px;
+}
+
+.textBox:focus {
+    outline: none;
+    box-shadow: 0 0 0 1px #2684FF;
+    border-color: #2684FF;
+    border-width: .5px;
+    transition: 0.1s;
+}
+
+.hasValue {
+    background: #ffffff;
+    border: .5px solid rgba(211,211,211,0.83);
+    border-radius: 4px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #4D4D4D;
+    width: 100%;
+    padding: 10px 0px 10px 10px;
+    margin-left: -5px;
+}
+
+.textBoxLabel {
+    padding-bottom: 10px;
+}
+
+.icon {
+    position: absolute;
+    left: 13px;
+    top: calc(50% - 0.5em); /* Keep icon in center of input, regardless of the input height */
+}
+
+.wrapper {
+    position: relative;
+}

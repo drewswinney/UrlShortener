@@ -1,0 +1,15 @@
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.dll.config
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.deps.json
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.runtimeconfig.json
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.runtimeconfig.dev.json
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.dll
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/bin/Debug/netcoreapp2.2/UrlShortener.pdb
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.csprojAssemblyReference.cache
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.csproj.CoreCompileInputs.cache
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.RazorAssemblyInfo.cache
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.RazorAssemblyInfo.cs
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.AssemblyInfoInputs.cache
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.AssemblyInfo.cs
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.RazorTargetAssemblyInfo.cache
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.dll
+/Users/andrewswinney/RiderProjects/UrlShortener/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.pdb

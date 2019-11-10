@@ -1,0 +1,21 @@
+Hey there! Thanks for reviewing my url shortener project, ShortenIt! There are a few things you should know to be able to run this project correctly.
+
+1. There are 4 commands you can use to run the project: 
+    - 'make setup'
+    - 'make run-client'
+    - 'make run-server'
+    - 'make test'
+
+2. Because the client is running via node-served webpack, you will need to run both the client and server separately (in two separate processes). 
+The client runs on port 3000 and the server on port 5001.
+
+3. 'make setup' will install both yarn and the dotnet tools (needed to test and run the server code) and restore node_modules. Make sure to run this before you run 'make run-client' or 'make run-server'
+
+4. 'make test' will run both client side (react-testing-library / jest) and server side (XUnit) unit tests. 
+There are no integration tests for this project, but given the chance I would have implemented those using cypress.
+
+5. The database is a sqlite db. I am using an EntityFramework ORM connection to access and modify the records in the db. It is lightweight and portable,
+which is why I chose to use it for this project. However, in a production environment I would have chosen to use something more robust like Microsoft SQL Server or MySQL.
+
+
+=== Thanks again for reviewing! If you have any questions or have problems running the code, please email me at drewswinney@gmail.com and I can certainly help out ===
