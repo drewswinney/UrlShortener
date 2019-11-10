@@ -1,4 +1,4 @@
-.PHONY:	server
+.PHONY:	run-server
 
 # `make setup` will be used after cloning or downloading to fulfill
 # dependencies, and setup the the project in an initial state.
