@@ -1,5 +1,3 @@
-.PHONY:	run-server
-
 # `make setup` will be used after cloning or downloading to fulfill
 # dependencies, and setup the the project in an initial state.
 # This is where you might download rubygems, node_modules, packages,
