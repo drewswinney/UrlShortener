@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0a60f4-6970-46fc-95de-ffdf467ee64b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UrlShortener/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UrlShortener/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener.Tests/obj/Debug/netcoreapp2.2/UrlShortener.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener.Tests/obj/Debug/netcoreapp2.2/UrlShortener.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener.Tests/obj/UrlShortener.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener.Tests/obj/UrlShortener.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener.Tests/obj/UrlShortener.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener.Tests/obj/UrlShortener.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener/obj/Debug/netcoreapp2.2/UrlShortener.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener/obj/UrlShortener.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener/obj/UrlShortener.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener/obj/UrlShortener.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener/obj/UrlShortener.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShortener/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShortener/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortener.db" beforeDir="false" afterPath="$PROJECT_DIR$/shortener.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +20,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/UrlShortener.Tests/ShortenerTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="18" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
@@ -56,19 +60,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="UrlShortener" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,11 +136,12 @@
       <updated>1573082753439</updated>
       <workItem from="1573082755723" duration="5798000" />
       <workItem from="1573400846558" duration="7334000" />
+      <workItem from="1573430800905" duration="337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13132000" />
+    <option name="totallyTimeSpent" value="13469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -157,16 +153,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Azure Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -249,13 +245,6 @@
             <marker date="1573405231424" expanded="true" signature="1660:1737" ph="{...}" />
             <marker date="1573405231424" expanded="true" signature="1754:1957" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrlShortener.Tests/ShortenerTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>

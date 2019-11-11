@@ -10,13 +10,13 @@ const Home: React.FC = () => {
   const [shortUrl, setShortUrl] = useState();
   const [error, setError] = useState();
 
-  const GetUrl = (long: String) => {
-    const exp = `^(https?):\/\/[^\s$.?#].[^\s]*$`;
+  const GetUrl = (long: string) => {
+    const exp = `^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$`;
     var regex = new RegExp(exp);
 
     if(long && long.match(regex)) {
       setError(undefined);
-      fetch(`https://localhost:5001/api/shortener/getshort?long_url=${long}`)
+      fetch(`https://localhost:5001/api/shortener/getshort?long_url=${encodeURIComponent(long)}`)
         .then(async res => 
           setShortUrl(await res.text()))
         .catch(() => setError('Woops! Looks like there was a problem shortening your url...'))
